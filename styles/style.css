@@ -39,7 +39,7 @@ li {
 }
 
 .banner-container {
-    background-image: url('resources/Banner\ Image.png');
+    background-image: url('../resources/Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -99,7 +99,7 @@ li {
 /* party */
 
 .party-container {
-    background-image: url('resources/Vectorrr.png');
+    background-image: url('../resources/Vectorrr.png');
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 16px;
